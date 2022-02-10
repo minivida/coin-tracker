@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/coin-tracker/static/js/main.ef63a4df.js",
-    "index.html": "/coin-tracker/index.html",
-    "main.ef63a4df.js.map": "/coin-tracker/static/js/main.ef63a4df.js.map"
+    "main.js": "/minivida.github.io/coin-tracker/static/js/main.c4bf54bf.js",
+    "index.html": "/minivida.github.io/coin-tracker/index.html",
+    "main.c4bf54bf.js.map": "/minivida.github.io/coin-tracker/static/js/main.c4bf54bf.js.map"
   },
   "entrypoints": [
-    "static/js/main.ef63a4df.js"
+    "static/js/main.c4bf54bf.js"
   ]
 }
